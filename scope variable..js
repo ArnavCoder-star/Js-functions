@@ -2,7 +2,8 @@ var a=69 //global variable
 function sum (){
     var b=69
     var c=90
-    var sum =a+b
-    console.log(sum)
+    var multiplication =a*b
+    console.log(multiplication)
 }
-sum() //calling variable
+multiplication() //calling variable
+<
